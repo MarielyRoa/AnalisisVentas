@@ -1,0 +1,17 @@
+C:\Users\Mariely\Source\Repos\readcsv\bin\Debug\net8.0\readcsv.exe
+C:\Users\Mariely\Source\Repos\readcsv\bin\Debug\net8.0\readcsv.deps.json
+C:\Users\Mariely\Source\Repos\readcsv\bin\Debug\net8.0\readcsv.runtimeconfig.json
+C:\Users\Mariely\Source\Repos\readcsv\bin\Debug\net8.0\readcsv.dll
+C:\Users\Mariely\Source\Repos\readcsv\bin\Debug\net8.0\readcsv.pdb
+C:\Users\Mariely\Source\Repos\readcsv\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\readcsv.csproj.AssemblyReference.cache
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\readcsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\readcsv.AssemblyInfoInputs.cache
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\readcsv.AssemblyInfo.cs
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\readcsv.csproj.CoreCompileInputs.cache
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\readcsv.csproj.Up2Date
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\readcsv.dll
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\refint\readcsv.dll
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\readcsv.pdb
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\readcsv.genruntimeconfig.cache
+C:\Users\Mariely\Source\Repos\readcsv\obj\Debug\net8.0\ref\readcsv.dll

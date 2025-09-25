@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+cbmmG7Snn0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mariely\\Source\\Repos\\readcsv\\readcsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mariely\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
