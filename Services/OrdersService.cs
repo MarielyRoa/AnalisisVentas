@@ -18,7 +18,7 @@ namespace readcsv.Services
             _pathFile = pathFile;
         }
 
-        public void ReadOrders()
+        public List<orders> ReadOrders()
         {
             try
             {
@@ -33,16 +33,16 @@ namespace readcsv.Services
                         var query = from Ordenes in records
                                     select Ordenes;
 
-                        foreach (var record in records) 
-                        { 
+                        foreach (var record in records)
+                        {
                             Console.WriteLine(
                                 $"OrderID: {record.OrderID}, " +
                                 $"CustomerID: {record.CustomerID}, " +
                                 $"OrderDate: {record.OrderDate}, " +
-                                $"Status: {record.Status}"
+                                $"Status: {record.Status}" 
                                 );
                         }
-                        
+                        return records;
                     }
 
                 }

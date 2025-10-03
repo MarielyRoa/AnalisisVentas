@@ -18,7 +18,7 @@ namespace readcsv.Services
             _pathFile = pathFile;
         }
 
-        public void ReadProducts()
+        public List<products> ReadProducts()
         {
             try
             {
@@ -43,6 +43,8 @@ namespace readcsv.Services
                                $"Stock: {record.Stock}"
                            );
                         }
+
+                        return records;
                     }
 
                 }
@@ -60,4 +62,5 @@ namespace readcsv.Services
 
     }
 }
-}
+
+

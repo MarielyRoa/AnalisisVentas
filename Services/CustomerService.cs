@@ -19,7 +19,7 @@ namespace readcsv.Services
             _pathFile = pathFile;
         }
 
-        public void ReadCustomers()
+        public List<customers> ReadCustomers()
         {
             try
             {
@@ -45,6 +45,8 @@ namespace readcsv.Services
                                $"Country: {record.Country}"
                            );
                         }
+
+                        return records;
                     }
 
                 }

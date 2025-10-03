@@ -18,7 +18,7 @@ namespace readcsv.Services
             _pathFile = pathFile;
         }
 
-        public void ReadOrderDetails()
+        public List<order_details> ReadOrderDetails()
         {
             try
             {
@@ -42,8 +42,9 @@ namespace readcsv.Services
                                $"TotalPrice: {record.TotalPrice}"
                            );
                         }
-                      
-                        
+                        return records;
+
+
                     }
 
                 }

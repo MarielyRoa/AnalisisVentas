@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# Rider, Resharper
+.idea/
+*.ReSharper.*
+*_ReSharper.*
+*.DotSettings.user
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Node / Frontend (si aplica)
+node_modules/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Others
+*.DS_Store
+Thumbs.db
